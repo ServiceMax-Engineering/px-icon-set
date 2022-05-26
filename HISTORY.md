@@ -1,3 +1,7 @@
+v2.2.22
+=======
+* Add px-smx:share
+
 v2.2.21
 =======
 * Move px-smx:dependency to px-smm:dependency
